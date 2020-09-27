@@ -1,0 +1,27 @@
+/* ==UserStyle==
+@name           Empty @name replaces the default template - 9/27/2020, 4:41:18 PM
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("google.com") {
+    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #hdtbSum, #searchform > div.sfbg, #searchform > div.sfbg > div {
+        background-color: #242424
+    }
+    
+    #rso > div.g.mnr-c.g-blk > div.kp-blk.Wnoohf.OJXvsb > div > div.ifM9O > div > div > div,  #rso > div.g.mnr-c.g-blk > div.kp-blk.Wnoohf.OJXvsb > div > div.ifM9O > div > div > div > div.DtKIqb > div.HKdvMb > input{
+        background-color: #1a1a1a;
+    }
+    
+
+    #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a, #rso > div > div > div.r > a > h3 > span, #rso > div > div.rc > div.s > div > div > div > a, #eob_20 > div > div > div > div > div > a, #rso > div > div > div.r > a > div > cite {
+        color: #888b99;
+    }
+
+    a:link {text-decoration:none;}
+    a:visited {text-decoration:none;}
+    a:active {text-decoration:none;}
+    a:hover {text-decoration:none;}
+}
