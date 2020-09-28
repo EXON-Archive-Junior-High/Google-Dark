@@ -7,21 +7,29 @@
 ==/UserStyle== */
 
 @-moz-document domain("google.com") {
-    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #hdtbSum, #searchform > div.sfbg, #searchform > div.sfbg > div {
-        background-color: #242424
+    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #searchform > div.sfbg > div, #searchform > div.sfbg, #fbar{
+        background-color: #232426;
     }
     
-    #rso > div.g.mnr-c.g-blk > div.kp-blk.Wnoohf.OJXvsb > div > div.ifM9O > div > div > div,  #rso > div.g.mnr-c.g-blk > div.kp-blk.Wnoohf.OJXvsb > div > div.ifM9O > div > div > div > div.DtKIqb > div.HKdvMb > input{
+    #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a, #rso > div > div > div.r > a > h3 > span, #rso > div > div > div.s > div > div.jYOxx > div > a {
+        color: #8D69AB;
+    }
+    
+    #fbar > div.fbar.b2hzT > div > span, #Wprf1b, #gc9Iqb, #fsl > a, #eqQYZc, #swml > a, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div > div.sbtc > div > span, #tsf > div > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input, #rso > div > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite > span > span, #SIvCob > a, #wp-tabs-container > div > div.SzZmKb > div > div > div > div.SPZz6b > h2 > span, #brs > g-section-with-header > div.card-section > div > p > a{
+        color: #cccccc;
+    }
+
+    A:link, #rso > div > div > div > div.r > a > h3 > span:link {text-decoration:none;}
+    A:visited,  #rso > div > div > div > div.r > a > h3 > span:visited {text-decoration:none;}
+    A:active,  #rso > div > div > div > div.r > a > h3 > span:active {text-decoration:none;}
+    A:hover,  #rso > div > div > div > div.r > a > h3 > span:hover {text-decoration:none;}
+    
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul, #tsf > div > div.A8SBwf.emcav > div.RNNXgb, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > div, #tsf > div > div.A8SBwf > div.RNNXgb, #tsf > div:nth-child(2) > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb {
         background-color: #1a1a1a;
+        border: none;
     }
     
-
-    #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a, #rso > div > div > div.r > a > h3 > span, #rso > div > div.rc > div.s > div > div > div > a, #eob_20 > div > div > div > div > div > a, #rso > div > div > div.r > a > div > cite {
-        color: #888b99;
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div:hover, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li:hover {
+        background-color: #0a0a0a;
     }
-
-    a:link {text-decoration:none;}
-    a:visited {text-decoration:none;}
-    a:active {text-decoration:none;}
-    a:hover {text-decoration:none;}
 }
