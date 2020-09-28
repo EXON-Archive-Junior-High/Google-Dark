@@ -7,16 +7,20 @@
 ==/UserStyle== */
 
 @-moz-document domain("google.com") {
-    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #searchform > div.sfbg > div, #searchform > div.sfbg, #fbar{
+    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #searchform > div.sfbg > div, #searchform > div.sfbg, #fbar, #am-b0, #am-b1, #am-b2, #am-b3, #am-b4, #sfdiv > div {
         background-color: #232426;
     }
     
     #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a, #rso > div > div > div.r > a > h3 > span, #rso > div > div > div.s > div > div.jYOxx > div > a {
-        color: #8D69AB;
+        color: #4285F4;
     }
     
-    #fbar > div.fbar.b2hzT > div > span, #Wprf1b, #gc9Iqb, #fsl > a, #eqQYZc, #swml > a, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div > div.sbtc > div > span, #tsf > div > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input, #rso > div > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite > span > span, #SIvCob > a, #wp-tabs-container > div > div.SzZmKb > div > div > div > div.SPZz6b > h2 > span, #brs > g-section-with-header > div.card-section > div > p > a{
+    #fbar > div.fbar.b2hzT > div > span, #Wprf1b, #gc9Iqb, #fsl > a, #eqQYZc, #swml > a, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div > div.sbtc > div > span, #tsf > div > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input, #rso > div > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite > span > span, #SIvCob > a, #wp-tabs-container > div > div.SzZmKb > div > div > div > div.SPZz6b > h2 > span, #brs > g-section-with-header > div.card-section > div > p > a, #SIvCob{
         color: #cccccc;
+    }
+    
+    #rso > div > div > div.s > div > span > span {
+        color: #888888;
     }
 
     A:link, #rso > div > div > div > div.r > a > h3 > span:link {text-decoration:none;}
@@ -24,7 +28,7 @@
     A:active,  #rso > div > div > div > div.r > a > h3 > span:active {text-decoration:none;}
     A:hover,  #rso > div > div > div > div.r > a > h3 > span:hover {text-decoration:none;}
     
-    #tsf > div > div.A8SBwf.emcav > div.UUbT9, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul, #tsf > div > div.A8SBwf.emcav > div.RNNXgb, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > div, #tsf > div > div.A8SBwf > div.RNNXgb, #tsf > div:nth-child(2) > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb {
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul, #tsf > div > div.A8SBwf.emcav > div.RNNXgb, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > div, #tsf > div > div.A8SBwf > div.RNNXgb, #tsf > div:nth-child(2) > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb, #sfdiv, #sbtc > div.sbibtd {
         background-color: #1a1a1a;
         border: none;
     }
