@@ -5,35 +5,142 @@
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
-
 @-moz-document domain("google.com") {
-    #viewport, #main, #tsf, #hdtbSum, #slim_appbar, #extabar > div, #searchform > div.sfbg > div, #searchform > div.sfbg, #fbar, #am-b0, #am-b1, #am-b2, #am-b3, #am-b4, #sfdiv > div {
+    #viewport,
+    #main,
+    #tsf,
+    #hdtbSum,
+    #slim_appbar,
+    #extabar > div,
+    #searchform > div.sfbg > div,
+    #searchform > div.sfbg,
+    #fbar,
+    #am-b0,
+    #am-b1,
+    #am-b2,
+    #am-b3,
+    #am-b4,
+    #sfdiv > div,
+    #yDmH0d > div.T1diZc.KWE8qe,
+    #yDmH0d > c-wiz > div > div,
+    #kO001e,
+    #yDmH0d > div.T1diZc.KWE8qe > c-wiz > div.ndYZfc > div {
         background-color: #232426;
     }
-    
-    #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a, #rso > div > div > div.r > a > h3 > span, #rso > div > div > div.s > div > div.jYOxx > div > a {
+
+    #gbw > div > div > div.gb_je.gb_i.gb_Hg.gb_xg > div > a,
+    #rso > div > div > div.r > a > h3 > span,
+    #rso > div > div > div.s > div > div.jYOxx > div > a,
+    #rso > div > div > div > div.r > a > h3 > span,
+    #rso > div > div > table > tbody > tr.mslg.dmenKe > td > div > span > h3 > a,
+    #rso > div > div > table > tbody > tr > td > div > span > h3 > a,
+    #rso > div > div > table > tbody > tr > td > div > a,
+    #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > span.LrzXr.kno-fv > a,
+    #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > div > span > a,
+    #rso > div > div > div.s > div > div > div > div.G1Rrjc > div > a > span {
         color: #4285F4;
     }
-    
-    #fbar > div.fbar.b2hzT > div > span, #Wprf1b, #gc9Iqb, #fsl > a, #eqQYZc, #swml > a, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div > div.sbtc > div > span, #tsf > div > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input, #rso > div > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite, #rso > div > div > div.r > a > div > cite > span > span, #SIvCob > a, #wp-tabs-container > div > div.SzZmKb > div > div > div > div.SPZz6b > h2 > span, #brs > g-section-with-header > div.card-section > div > p > a, #SIvCob{
+
+    #fbar > div.fbar.b2hzT > div > span,
+    #Wprf1b,
+    #gc9Iqb,
+    #fsl > a,
+    #eqQYZc,
+    #swml > a,
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div > div.sbtc > div > span,
+    #tsf > div > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input,
+    #rso > div > div > div > div.r > a > div > cite,
+    #rso > div > div > div.r > a > div > cite,
+    #rso > div > div > div.r > a > div > cite > span > span,
+    #SIvCob > a,
+    #wp-tabs-container > div > div.SzZmKb > div > div > div > div.SPZz6b > h2 > span,
+    #brs > g-section-with-header > div.card-section > div > p > a,
+    #SIvCob,
+    #brs > g-section-with-header > div.e2BEnf.U7izfe > h3 > span,
+    #islrg > div.islrc > div > a.VFACy.kGQAp.sMi44c.lNHeqe.WGvvNb,
+    #REsRA,
+    #lst-ib,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.C8TUKc.CNIbvd.rllt__link.a-no-hover-decoration > div > div.dbg0pd > span,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.C8TUKc.CNIbvd.rllt__link.a-no-hover-decoration > div > span > div > span,
+    #mh_tsuid35 > div > div > div.SPZz6b > h2 > span,
+    #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > div > span,
+    #wp-tabs-container > div > div.mod.NFQFxe > div > a > span.ellip,
+    #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > span.w8qArf > a,
+    #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > span.w8qArf,
+    a,
+    .fl,
+    #tw-target-text > span,
+    #tw-source-text-ta,
+    #tw-source-rmn > span,
+    span,
+    h2,
+    #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O > h2,
+    #_beFyX8KIG8aUmAWn1bLACw66 > div,
+    #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O {
         color: #cccccc;
     }
-    
-    #rso > div > div > div.s > div > span > span {
+
+    #rso > div > div > div.s > div > span > span,
+    #_beFyX8KIG8aUmAWn1bLACw61 > div.mR2gOd > div > div > div > g-inner-card > div > div > div.MjS0Lc.nHGuld > div > span {
         color: #888888;
     }
 
-    A:link, #rso > div > div > div > div.r > a > h3 > span:link {text-decoration:none;}
-    A:visited,  #rso > div > div > div > div.r > a > h3 > span:visited {text-decoration:none;}
-    A:active,  #rso > div > div > div > div.r > a > h3 > span:active {text-decoration:none;}
-    A:hover,  #rso > div > div > div > div.r > a > h3 > span:hover {text-decoration:none;}
-    
-    #tsf > div > div.A8SBwf.emcav > div.UUbT9, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul, #tsf > div > div.A8SBwf.emcav > div.RNNXgb, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > div, #tsf > div > div.A8SBwf > div.RNNXgb, #tsf > div:nth-child(2) > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb, #sfdiv, #sbtc > div.sbibtd {
+    span:link,
+    #rso > div > div > div > div.r > a > h3:link {
+        text-decoration: none;
+    }
+    span:visited,
+    #rso > div > div > div > div.r > a > h3:visited {
+        text-decoration: none;
+    }
+    span:active,
+    #rso > div > div > div > div.r > a > h3:active {
+        text-decoration: none;
+    }
+    span:hover,
+    #rso > div > div > div > div.r > a > h3:hover {
+        text-decoration: none;
+    }
+
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9,
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul,
+    #tsf > div > div.A8SBwf.emcav > div.RNNXgb,
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > div,
+    #tsf > div > div.A8SBwf > div.RNNXgb,
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb,
+    #sfdiv,
+    #sf > div.SSBXXc > div.zthhpf,
+    #sb_ifc0,
+    #gs_st0,
+    #sfdiv > div > div,
+    #rso > div > div > div.AEprdc.vk_c,
+    #rso > div > div > div.AEprdc.vk_c > div > div.rllh__header-container > div,
+    #tw-container > g-expandable-container > div > div,
+    #tw-container,
+    #kAz1tf,
+    #_beFyX8KIG8aUmAWn1bLACw61 > div.mR2gOd > div > div > div > g-inner-card,
+    #rso > div > g-section-with-header > g-more-link > a > div {
         background-color: #1a1a1a;
         border: none;
     }
-    
-    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div:hover, #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li:hover {
+
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li > div:hover,
+    #tsf > div > div.A8SBwf.emcav > div.UUbT9 > div.aajZCb > ul > li:hover,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.C8TUKc.CNIbvd.rllt__link.a-no-hover-decoration > div:hover,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.C8TUKc.CNIbvd.rllt__link.a-no-hover-decoration:hover,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.yYlJEf.L48Cpd:hover,
+    #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div:hover {
         background-color: #0a0a0a;
+    }
+
+    #tsf > div > div.A8SBwf > div.FPdoLc.tfB0Bf > center > input.gNO89b {
+        background-color: #232426;
+        fill: #232426;
+    }
+
+    #i6 > div.FAZ4xe.FoDaAb > span > span > div > a {
+        background-color: #1a1a1a;
+        color: #cccccc;
+        border: none;
     }
 }
