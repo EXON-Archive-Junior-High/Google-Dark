@@ -37,7 +37,9 @@
     #rso > div > div > table > tbody > tr > td > div > a,
     #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > span.LrzXr.kno-fv > a,
     #kp-wp-tab-overview > div.cLjAic.LMRCfc > div > div > div > div > div > div > div > div > span > a,
-    #rso > div > div > div.s > div > div > div > div.G1Rrjc > div > a > span {
+    #rso > div > div > div.s > div > div > div > div.G1Rrjc > div > a > span,
+    #rso > div > div > div > div.yuRUbf > a > h3 > span,
+    #rso > div > div > div.yuRUbf > a > h3 > span {
         color: #4285F4;
     }
 
@@ -72,16 +74,21 @@
     #tw-target-text > span,
     #tw-source-text-ta,
     #tw-source-rmn > span,
-    span,
     h2,
     #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O > h2,
     #_beFyX8KIG8aUmAWn1bLACw66 > div,
-    #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O {
+    #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O,
+    #rso > div > div > div.yuRUbf > a > div > cite,
+    #rso > div > div > div.yuRUbf > a > div > cite > span > span,
+    #rso > div > div > div > div.yuRUbf > a > div > cite {
         color: #cccccc;
     }
 
     #rso > div > div > div.s > div > span > span,
-    #_beFyX8KIG8aUmAWn1bLACw61 > div.mR2gOd > div > div > div > g-inner-card > div > div > div.MjS0Lc.nHGuld > div > span {
+    #_beFyX8KIG8aUmAWn1bLACw61 > div.mR2gOd > div > div > div > g-inner-card > div > div > div.MjS0Lc.nHGuld > div > span,
+    #rso > div > div > div > div.IsZvec > div > span > span,
+    #rso > div > div > div.IsZvec > div > span > span,
+    #rso > div > div > table > tbody > tr.mslg.CK34J > td > div > div > div {
         color: #888888;
     }
 
@@ -130,7 +137,7 @@
     #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.C8TUKc.CNIbvd.rllt__link.a-no-hover-decoration:hover,
     #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div > a.yYlJEf.L48Cpd:hover,
     #rso > div > div > div.AEprdc.vk_c > div > div > div.ccBEnf > div > div > div:hover {
-        background-color: #0a0a0a;
+        background-color: #1a1a1a;
     }
 
     #tsf > div > div.A8SBwf > div.FPdoLc.tfB0Bf > center > input.gNO89b {
