@@ -24,7 +24,7 @@
     #yDmH0d > div.T1diZc.KWE8qe,
     #yDmH0d > c-wiz > div > div,
     #kO001e,
-    #yDmH0d > div.T1diZc.KWE8qe > c-wiz > div.ndYZfc > div {
+    #yDmH0d > div.T1diZc.KWE8qe > c-wiz > div.ndYZfc > div{
         background-color: #232426;
     }
 
@@ -80,7 +80,10 @@
     #rso > div.g.kno-kp.mnr-c.g-blk > div.kp-blk.cUnQKe.Wnoohf.OJXvsb > div > div.ifM9O,
     #rso > div > div > div.yuRUbf > a > div > cite,
     #rso > div > div > div.yuRUbf > a > div > cite > span > span,
-    #rso > div > div > div > div.yuRUbf > a > div > cite {
+    #rso > div > div > div > div.yuRUbf > a > div > cite,
+    #rso > div> div > div > div.MGqjK > div > div > div > a > div > div.I78iTc.nNwWze > div.CwxNSe > div,
+    site,
+    #rso > div > div > div > div.MGqjK > div > div > div > a > div > div.I78iTc.nNwWze > div.MmhWIb > span > cite{
         color: #cccccc;
     }
 
@@ -126,7 +129,14 @@
     #tw-container,
     #kAz1tf,
     #_beFyX8KIG8aUmAWn1bLACw61 > div.mR2gOd > div > div > div > g-inner-card,
-    #rso > div > g-section-with-header > g-more-link > a > div {
+    #rso > div > g-section-with-header > g-more-link > a > div,
+    #top_nav,
+    #top_nav > div,
+    #rso > div > div > div > div.MGqjK,
+    #rso > div > div > div > div.MGqjK:hover,
+    #rso > div > div > div > div.MGqjK > div > div > div > a > div:hover,
+    #rhs > div,
+    #wp-tabs-container{
         background-color: #1a1a1a;
         border: none;
     }
